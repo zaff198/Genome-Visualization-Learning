@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Conda environment files
+.env
+
+# Large genome files
+*.fna
+*.fna.gz
+*.fastq
+*.fastq.gz
