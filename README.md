@@ -8,6 +8,9 @@ The project demonstrates how raw genome sequence data can be transformed into st
 
 The workflow was developed as a learning project in genome informatics.
 
+<img width="2480" height="3760" alt="genome_visualization_collage" src="https://github.com/user-attachments/assets/7deee0b1-4828-4564-9e39-2766a9b85344" />
+
+
 ---
 
 # Dataset
